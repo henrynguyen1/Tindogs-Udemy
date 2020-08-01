@@ -1,2 +1,1 @@
-# Tindogs-Udemy
-HTML, CSS bootstrap practice
+TinDog Starting Files
